@@ -7,8 +7,8 @@ sites:
   - name: Supabase API
     url: https://vbsntculbrpmafxmuokk.supabase.co/auth/v1/health
     headers:
-      Authorization: "Bearer sb_publishable_vfpqxga7R6MvnoE8ibRUMA_mY4PnE-O"
-      apikey: "sb_publishable_vfpqxga7R6MvnoE8ibRUMA_mY4PnE-O"
+      - Authorization: "Bearer sb_publishable_vfpqxga7R6MvnoE8ibRUMA_mY4PnE-O"
+      - apikey: "sb_publishable_vfpqxga7R6MvnoE8ibRUMA_mY4PnE-O"
 
 assignees:
   - imsankz
